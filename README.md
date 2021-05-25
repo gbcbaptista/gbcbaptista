@@ -1,5 +1,7 @@
 ### Hi my name is Gabriel 👋
-<a href="https://www.google.com"><img src="https://img.shields.io/badge/Linkedin-Gabriel-lightgrey?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=FFF"></img></a>
+<a href="https://www.linkedin.com/in/gabriel-baptista-70a3bb1a0"><img src="https://img.shields.io/badge/Linkedin-Gabriel-lightgrey?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=FFF"></img></a>
+
+
 <!--
 **gbcbaptista/gbcbaptista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
