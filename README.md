@@ -1,5 +1,5 @@
 ### Hi my name is Gabriel 👋
-<a href="https://www.linkedin.com/in/gabriel-baptista-70a3bb1a0"><img src="https://img.shields.io/badge/Linkedin-Gabriel-lightgrey?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=FFF"></img></a>
+<a href="https://www.linkedin.com/in/gabriel-baptista-70a3bb1a0" target=blank_ ><img src="https://img.shields.io/badge/Linkedin-Gabriel-lightgrey?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=FFF"></img></a>
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-guy%20WithHat-FFF?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/guy_WithHat)
