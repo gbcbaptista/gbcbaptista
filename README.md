@@ -1,8 +1,9 @@
 ### Hi my name is Gabriel 👋
-<a href="https://www.linkedin.com/in/gabriel-baptista-70a3bb1a0"><img src="https://img.shields.io/badge/Linkedin-Gabriel-lightgrey?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=FFF"></img></a>
+##### I'm Junior QA Analyst and Front-end Developer.
+##### I love creating and optimizing solutions! ⚡⚡⚡
 
+<a href="https://www.linkedin.com/in/gabriel-baptista-70a3bb1a0"><img src="https://img.shields.io/badge/Linkedin-Gabriel%20B.%20Cerqueira-lightgrey?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=FFF"></img></a>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-guy%20WithHat-FFF?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/guy_WithHat)
 
 
 <!--
@@ -17,5 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
+
+
