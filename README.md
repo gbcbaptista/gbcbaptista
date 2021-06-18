@@ -1,5 +1,5 @@
 ### Hi my name is Gabriel 👋💻
-##### I am a Junior QA Analyst, Front-End Developer and a curious Ethical Hacking enthusiast! ⚡💻⚡
+##### I'm a Junior QA Analyst, Front-End Developer and a curious Ethical Hacking enthusiast! ⚡💻⚡
 ##### I love creating and optimizing solutions! ⚡💻⚡
 
 <a href="https://www.linkedin.com/in/gabriel-baptista-70a3bb1a0"><img src="https://img.shields.io/badge/Linkedin-Gabriel%20B.%20Cerqueira-lightgrey?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=FFF"></img></a>
