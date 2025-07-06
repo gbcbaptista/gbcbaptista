@@ -64,19 +64,6 @@
 
 *More projects coming soon as I build out my portfolio showcase! 🚀*
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbcbaptista&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f2937&title_color=38bdf8&text_color=f9fafb&icon_color=38bdf8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbcbaptista&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f2937&title_color=38bdf8&text_color=f9fafb)
-
-</div>
-
----
 
 ## 🎨 What Makes Me Different
 
@@ -85,8 +72,6 @@
 - 📈 **Performance Focused**: Optimized solutions that scale
 - 🎨 **Design Conscious**: Clean, modern interfaces with great UX
 - 🚀 **Innovation Driven**: Always exploring cutting-edge technologies
-
----
 
 ## 🌟 Let's Connect!
 
